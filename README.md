@@ -1,7 +1,8 @@
 # Java-array-code
 
-A  Java program that takes array elements as input, searches for a specific element, and finds the largest and smallest elements in the array using loops and conditional statements.
+This repository contains Java programs based on Array concepts. It includes beginner-friendly examples and practice programs covering both ID and 2D Arrays.
 
+The purpose of this repository is to strengthen problem-solving skills and understand array operations in Java through practical implementations.
 ## Technologies Used
 - Java
 Scanner Class
